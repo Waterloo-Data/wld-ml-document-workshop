@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "text": "B-AGMT_DATE",
+    "prefixKey": null,
+    "suffixKey": "0",
+    "backgroundColor": "#73D8FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 2,
+    "text": "B-DOC_NAME",
+    "prefixKey": null,
+    "suffixKey": "1",
+    "backgroundColor": "#009CE0",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 3,
+    "text": "B-PARTY",
+    "prefixKey": null,
+    "suffixKey": "2",
+    "backgroundColor": "#FA28FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 4,
+    "text": "I-AGMT_DATE",
+    "prefixKey": null,
+    "suffixKey": "3",
+    "backgroundColor": "#F44E3B",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5,
+    "text": "I-DOC_NAME",
+    "prefixKey": null,
+    "suffixKey": "4",
+    "backgroundColor": "#68BC00",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 6,
+    "text": "I-PARTY",
+    "prefixKey": null,
+    "suffixKey": "5",
+    "backgroundColor": "#194D33",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 7,
+    "text": "O",
+    "prefixKey": null,
+    "suffixKey": "6",
+    "backgroundColor": "#FCDC00",
+    "textColor": "#ffffff"
+  }
+]
